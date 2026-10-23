@@ -1,0 +1,9 @@
+{
+  "source_repository": "sfskhalsa101/sfs-warehouse",
+  "source_commit": "2a93d5e5aa7997e19a37b3ca4538fcc1d03ccc93",
+  "copied_to": "snowmany19/sfs-warehouse",
+  "copy_date": "2026-10-23",
+  "method": "GitHub default-branch ZIP source snapshot",
+  "visibility": "private",
+  "notes": "Source copy only. Prior Git history, issues, secrets, hosting configuration outside tracked files, runtime databases and deployments are not migrated. Existing tracked deployment identifiers still refer to the original app; do not treat this copy as a new deployment."
+}
